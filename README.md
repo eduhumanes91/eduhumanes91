@@ -1,4 +1,7 @@
 ### Hi there 👋
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@eduhumanes91/30-nites-of-code)  
+  ![@eduhumanes91 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=eduhumanes91)
 
 <!--
 **eduhumanes91/eduhumanes91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
